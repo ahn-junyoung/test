@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\wnsdu\Desktop\git_practice\sim
+vand_gate
+Z1 !s100 SQ4HmmDXRODLG5<UdHkiM0
+Z2 I<c1S55TaaQRgm@i2Sh1=o3
+Z3 VbT649VA`UFf?oDBHPfmHC0
+Z4 dC:\Users\wnsdu\Desktop\git_practice\and_gate\sim
+Z5 w1688365677
+Z6 8../src/rtl/and_gate.v
+Z7 F../src/rtl/and_gate.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1688962875.470000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/and_gate.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vnand_gate
+!i10b 1
+!s100 0YEC@PGag7Md2_fQ?VaF82
+IR>on_=McUm;2^Hh?C7MXi1
+VW:@cAnkm7?Gb4IQG5X1_;3
+Z12 dC:\Users\wnsdu\Desktop\git_practice\nand_gate\sim
+w1688966937
+8../src/rtl/nand_gate.v
+F../src/rtl/nand_gate.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z13 !s108 1688966950.102000
+Z14 !s107 ../testbench/testbench.v|../src/rtl/nand_gate.v|
+R11
+!s101 -O0
+o-O0
+vnot_gate
+Z15 !s100 dCHXiF5jP@dLHfb51T5J_0
+Z16 IkcZ[nB4gJOQB6:iAH`1Bf0
+Z17 V4E4EDUVNdKMQmHPAFP[A_2
+Z18 dC:\Users\wnsdu\Desktop\git_practice\sim
+Z19 w1688363058
+Z20 8../src/rtl/not_gate.v
+Z21 F../src/rtl/not_gate.v
+L0 1
+R8
+r1
+31
+Z22 !s108 1688364642.929000
+Z23 !s107 ../testbench/testbench.v|../src/rtl/not_gate.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vor_gate
+Z24 !s100 HTZXI3]bhMfP`;k]UnSCY3
+Z25 IeX?Zf[CVU;:dGQ3fWLlSI1
+Z26 VSlI=:5_l>zinbASa0olcl0
+Z27 dC:\Users\wnsdu\Desktop\git_practice\or_gate\sim
+Z28 w1688963204
+Z29 8../src/rtl/or_gate.v
+Z30 F../src/rtl/or_gate.v
+L0 1
+R8
+r1
+31
+Z31 !s108 1688964000.725000
+Z32 !s107 ../testbench/testbench.v|../src/rtl/or_gate.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+Z33 !s100 AedmYgo0LdFk4=c5aLL1f1
+Z34 I8@=BTYde4Fd5AAikTl1Hf0
+Z35 VhGfW:390DM[oDMzegDH9`2
+R12
+Z36 w1688966224
+Z37 8../testbench/testbench.v
+Z38 F../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R13
+R14
+R11
+!s101 -O0
+o-O0
